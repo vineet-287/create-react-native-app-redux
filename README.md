@@ -17,9 +17,9 @@ $ Enjoy
 
 
 You will be getting a login screen at very first. Just hit any login with password you will get success alert.
-To check more in the code just got `projectRootFolder/src/client/Services/Actions/Login.js` and uncomment line 8 - 12. 
-It will dispatch an error which may be login error. Just below you can get `axios` example which demonstrate API calling
-and handling data.
+To check more in the code just go `projectRootFolder/src/client/Services/Actions/Login.js` and uncomment line `8 - 12`. 
+It will dispatch an error which is just an example of how to create actions for error. Just below you can get `axios` 
+example which demonstrate `API` calling and `handling data`.
 
 ## Support and Contact
 

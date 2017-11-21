@@ -11,6 +11,7 @@ This project cum architecture is just a combination of `create-react-native-app`
 $ git clone https://github.com/vineet-287/create-react-native-app-redux.git
 $ npm install
 $ npm run
+$ download EXPO client from your app store
 $ Scan QR code
 $ Enjoy
 ```
